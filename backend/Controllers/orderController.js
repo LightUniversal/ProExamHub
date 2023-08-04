@@ -124,5 +124,6 @@ export {
   getOrderById,
   getOrders,
   updateOrderToDelivered,
+  viewProductsOrdered,
   updateOrderToPaid,
 };
